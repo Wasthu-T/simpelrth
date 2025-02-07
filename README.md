@@ -1,5 +1,6 @@
 ## Perlu di sesuaikan
 /mysql/.env
+
 /src/.env
 
 ## Jalankan perintah ini
